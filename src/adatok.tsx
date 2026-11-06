@@ -18,30 +18,30 @@ export const KONYVLISTA: KonyvTipus[] = [
     },
     {
         id: 2,
-        cim: "Galaxszis útikalaúz stopposoknak",
-        szerzo: "Douglas Adams",
-        kiadasiev: 1979,
-        allapot: "kölcsönözve"
+        cim: "Dune",
+        szerzo: "Frank Herbert",
+        kiadasiev: 1965,
+        allapot: "kölcsönözhető"
     },
     {
         id: 3,
-        cim: "Galaxszis útikalaúz stopposoknak",
-        szerzo: "Douglas Adams",
-        kiadasiev: 1979,
+        cim: "The Left Hand of Darkness",
+        szerzo: "Ursula K. Le Guin",
+        kiadasiev: 1969,
         allapot: "kölcsönözve"
     },
     {
         id: 4,
-        cim: "Galaxszis útikalaúz stopposoknak",
-        szerzo: "Douglas Adams",
-        kiadasiev: 1979,
-        allapot: "kölcsönözve"
+        cim: "The Name of the Wind",
+        szerzo: "Patrick Rothfuss",
+        kiadasiev: 2007,
+        allapot: "kölcsönözhető"
     },
     {
         id: 5,
-        cim: "Galaxszis útikalaúz stopposoknak",
-        szerzo: "Douglas Adams",
-        kiadasiev: 1979,
+        cim: "Neuromancer",
+        szerzo: "William Gibson",
+        kiadasiev: 1984,
         allapot: "kölcsönözve"
     }
 ]
